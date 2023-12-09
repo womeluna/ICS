@@ -18,7 +18,7 @@ abstract class TransportCompany
     {
         return Name;
     }
-    // фабричный метод
+    // фабричный метод, ответственный за создание экземпляра TransportService.
     abstract public TransportService Create(string n, int k);
 }
 class TaxiServices : TransportService
