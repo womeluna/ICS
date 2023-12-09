@@ -1,0 +1,15 @@
+C:\Users\NeoNe\Desktop\AbstractFabric\bin\Debug\net6.0\AbstractFabric.exe
+C:\Users\NeoNe\Desktop\AbstractFabric\bin\Debug\net6.0\AbstractFabric.deps.json
+C:\Users\NeoNe\Desktop\AbstractFabric\bin\Debug\net6.0\AbstractFabric.runtimeconfig.json
+C:\Users\NeoNe\Desktop\AbstractFabric\bin\Debug\net6.0\AbstractFabric.dll
+C:\Users\NeoNe\Desktop\AbstractFabric\bin\Debug\net6.0\ref\AbstractFabric.dll
+C:\Users\NeoNe\Desktop\AbstractFabric\bin\Debug\net6.0\AbstractFabric.pdb
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.csproj.AssemblyReference.cache
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.AssemblyInfoInputs.cache
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.AssemblyInfo.cs
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.dll
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\ref\AbstractFabric.dll
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.pdb
+C:\Users\NeoNe\Desktop\AbstractFabric\obj\Debug\net6.0\AbstractFabric.genruntimeconfig.cache

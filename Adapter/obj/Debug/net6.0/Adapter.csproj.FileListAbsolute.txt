@@ -1,0 +1,15 @@
+C:\Users\NeoNe\Desktop\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\NeoNe\Desktop\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\NeoNe\Desktop\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\NeoNe\Desktop\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\NeoNe\Desktop\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+C:\Users\NeoNe\Desktop\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\NeoNe\Desktop\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
